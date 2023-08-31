@@ -6,3 +6,5 @@ This project is based on React-Query in which using react-query I've built the T
 - To fetch data I've used Axios.
 
 
+## Project Preview Link
+https://react-query-todo-list.vercel.app/
